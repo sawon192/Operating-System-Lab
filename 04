@@ -1,0 +1,67 @@
+# Memory Management
+
+
+
+## Objective
+
+
+
+The objective of this lab is to implement different memory allocation techniques using the C programming language.
+
+
+
+## Theory
+
+
+
+Memory management is an important function of the operating system. It allocates memory to different processes and uses different allocation methods to improve memory utilization.
+
+
+
+## Programs Included
+
+
+
+- First Fit
+
+- Best Fit
+
+- Worst Fit
+
+- Next Fit
+
+
+
+## Language Used
+
+
+
+- C
+
+
+
+## Files Included
+
+
+
+- FirstFit.c
+
+- BestFit.c
+
+- WorstFit.c
+
+- NextFit.c
+
+- SampleInput.txt
+
+- SampleOutput.txt
+
+- Screenshot.png
+
+
+
+## Conclusion
+
+
+
+In this lab, I implemented different memory allocation algorithms. These algorithms allocate memory blocks to processes using different strategies and help understand memory management in operating systems.
