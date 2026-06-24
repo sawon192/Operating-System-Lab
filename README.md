@@ -31,7 +31,10 @@ Repository Structure
 
 Operating-System-Lab
 
- CPU-Scheduling
+```
+Operating-System-Lab
+│
+├── CPU-Scheduling
 ├── Bankers-Algorithm
 ├── Deadlock
 ├── Memory-Management
@@ -42,5 +45,7 @@ Operating-System-Lab
 ├── Assignments
 ├── Notes
 └── Mini-Project
+```
+
 
 Bachelor of Computer Science & Engineering
