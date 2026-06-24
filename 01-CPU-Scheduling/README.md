@@ -1,1 +1,31 @@
 
+# CPU Scheduling
+
+This folder contains the CPU Scheduling algorithms that I implemented during my Operating System Lab.
+
+## Algorithms
+
+- FCFS
+- SJF
+- Priority Scheduling
+- Round Robin
+
+## Language
+
+C
+
+## How to Run
+
+```bash
+gcc FCFS.c -o fcfs
+./fcfs
+```
+
+## Output
+
+The program calculates:
+
+- Waiting Time
+- Turnaround Time
+- Average Waiting Time
+- Average Turnaround Time
