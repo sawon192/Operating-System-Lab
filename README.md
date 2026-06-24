@@ -10,8 +10,6 @@ Welcome to my Operating System Lab repository.
 - Memory Management
 - Deadlock
 - Banker's Algorithm
-- Page Replacement
-- Disk Scheduling
 - Process Synchronization
 - Shell Scripting
 
@@ -20,9 +18,6 @@ Welcome to my Operating System Lab repository.
 ## Programming Languages
 
 - C
-- C++
-- Python
-- Bash
 
 ---
 
@@ -39,12 +34,9 @@ Operating-System-Lab
 ├── Deadlock
 ├── Memory-Management
 ├── Page-Replacement
-├── Disk-Scheduling
-├── Process-Synchronization
 ├── Shell-Scripts
 ├── Assignments
 ├── Notes
-└── Mini-Project
 ```
 
 
