@@ -8,7 +8,6 @@ Welcome to my Operating System Lab repository.
 - CPU Scheduling
 - Process Management
 - Memory Management
-- Deadlock
 - Banker's Algorithm
 - Process Synchronization
 - Shell Scripting
